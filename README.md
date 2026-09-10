@@ -115,5 +115,18 @@ npm run dev
   <a href="https://disney-app-git-main-jhojann.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   </a>
-  
+
+</p>
+
+## 📬 Perfil Profesional y Contacto
+
+Desarrollado por **Jhojann Sossa**. Pasión por el desarrollo web frontend y la creación de experiencias de usuario interactivas.
+
+<p align="left">
+  <a href="https://github.com/jhojannsossa" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jhojann-sossa-009b25121/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
