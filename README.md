@@ -99,14 +99,14 @@ npm run dev
 Puedes explorar la aplicación en producción o revisar el código fuente del repositorio a través de los siguientes accesos directos:
 
 <p align="left">
-  <!-- Enlace a GitHub Pages / Repositorio -->
-  <a href="https://github.com/jhojannsossa/disney-app" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-App%20Live-%2323121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
+  <!-- Enlace a Vercel (Deploy) -->
+  <a href="https://disney-app-eta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </a>
 
-  <!-- Enlace a Vercel -->
-  <a href="https://disney-app-eta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-Deployment-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <!-- Enlace a GitHub Pages / Repositorio -->
+  <a href="https://github.com/jhojannsossa/disney-app" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
   </a>
 </p>
 
