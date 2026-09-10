@@ -1,20 +1,73 @@
-# React + Vite
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JhojannSossa/disney-app/main/src/assets/imagen%20redmi.jpg" alt="Disney App Preview" width="100%"/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <h1>✨ 🔮 Galería Disney Animada 🔮 ✨</h1>
+</div>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🏰 Bienvenida a la Disney App
+Te damos la bienvenida a **Disney App**, una plataforma interactiva y moderna inspirada en el universo animado de Disney. Este proyecto recopila y exhibe de forma dinámica una amplia galería de personajes clásicos y modernos, permitiendo explorar sus detalles, tarjetas informativas y universos de manera fluida y atractiva.
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## 🚀 Características Principales
+* **Diseño Responsivo:** Adaptado completamente para dispositivos móviles, tablets y ordenadores de escritorio.
+* **Interfaz Dinámica:** Navegación fluida y componentes interactivos construidos con React.
+* **Consumo de API:** Integración eficiente de datos mediante Axios para mostrar la información detallada de cada personaje en tiempo real.
+* **Estilos Modernos:** Maquetación limpia y atractiva utilizando Tailwind CSS.
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+---
 
-## Expanding the ESLint configuration
+## 📄 Páginas de la Aplicación
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# disney-app
+### 1. 👥 Página de Personajes Disney
+Basada en la interfaz principal mostrada en la aplicación, esta sección incluye un listado completo en formato de tarjetas con los personajes de Disney (como *Achilles*, *Abigail the Cow*, *.GIFfany*, *Ahadi*, entre otros), mostrando sus respectivos identificadores únicos (**ID**) y avatares detallados extraídos directamente del catálogo oficial.
+
+### 2. 💻 Sobre Mí (Desarrollador Freelance)
+Una sección personal y profesional dedicada a presentar mi perfil como **desarrollador frontend freelance**, destacando la experiencia técnica adquirida en el desarrollo web moderno, la pasión por la creación de interfaces interactivas y la resolución de problemas enfocada en la experiencia de usuario.
+
+---
+
+## 🛠️ Herramientas y Tecnologías Usadas
+
+| Tecnología / Herramienta | Logotipo / Badge | Propósito Principal |
+| :--- | :---: | :--- |
+| **React** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | Librería principal para la construcción de componentes reutilizables. |
+| **JavaScript (ES6+)** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | Lógica de programación y gestión de estados de la aplicación. |
+| **Tailwind CSS** | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | Framework de estilos CSS para un diseño ágil y adaptable. |
+| **Axios** | ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) | Cliente HTTP basado en promesas para consumir la API de personajes. |
+| **HTML5** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Estructura semántica base de las páginas web. |
+| **Git** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | Sistema de control de versiones local. |
+| **GitHub** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Repositorio remoto y colaboración en código fuente. |
+| **Vercel** | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) | Plataforma de despliegue continuo y hosting web. |
+| **Visual Studio Code** | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Entorno de desarrollo integrado (IDE) principal. |
+
+---
+
+## 📂 Estructura y Carpeteo del Proyecto
+
+```text
+disney-app/
+├── public/
+│   ├── favicon.ico
+│   └── assets/
+│       ├── imagen redmi.jpg
+│       └── pagina disney.jpg
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── CharacterCard.jsx
+│   │   └── Footer.jsx
+│   ├── pages/
+│   │   ├── CharactersPage.jsx
+│   │   └── AboutMePage.jsx
+│   ├── services/
+│   │   └── api.js
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── package.json
+├── tailwind.config.js
+└── README.md
