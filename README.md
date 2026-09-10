@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/imagen redmi.jpg" alt="Disney App Preview" width="100%"/>
+  <img src="public/image redmi.jpg" alt="Disney App Preview" width="100%"/>
 
   <h1>✨ 🔮 Galería Disney Animada 🔮 ✨</h1>
 </div>
@@ -19,7 +19,10 @@ Te damos la bienvenida a **Disney App**, una plataforma interactiva y moderna in
 
 ---
 
-## 📄 Páginas de la Aplicación
+
+## 📱 Páginas de la Aplicación
+
+![Página 1 de la Aplicación](./public/assets/page1.png)
 
 ### 1. 👥 Página de Personajes Disney
 Basada en la interfaz principal mostrada en la aplicación, esta sección incluye un listado completo en formato de tarjetas con los personajes de Disney (como *Achilles*, *Abigail the Cow*, *.GIFfany*, *Ahadi*, entre otros), mostrando sus respectivos identificadores únicos (**ID**) y avatares detallados extraídos directamente del catálogo oficial.
@@ -112,6 +115,7 @@ Puedes explorar la aplicación en producción o revisar el código fuente del re
 ## 📂 Estructura y Carpeteo del Proyecto
 
 ```tex
+
 disney-app/
 ├── public/
 │   ├── favicon.ico
