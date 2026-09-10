@@ -78,3 +78,37 @@ Puedes conectar conmigo o revisar más sobre mi trabajo a través de los siguien
 
 * **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-JhojannSossa-181717?style=for-the-badge&logo=github)](https://github.com/JhojannSossa)
 * **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhojann_Sossa-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhojannsossa)
+
+## ⚙️ Instalación y Puesta en Marcha
+
+Sigue estos sencillos pasos para clonar, configurar y ejecutar este proyecto localmente en **Visual Studio Code**:
+
+### 1. Prerrequisitos
+Asegúrate de tener instalado en tu equipo:
+* [Node.js](https://nodejs.org/) (versión 16.0 o superior recomendada).
+* [Git](https://git-scm.com/) para el control de versiones.
+
+### 2. Clonar el Repositorio
+Abre tu terminal (o la terminal integrada de Visual Studio Code) y ejecuta el siguiente comando:
+
+```bash
+git clone [https://github.com/JhojannSossa/disney-app.git](https://github.com/JhojannSossa/disney-app.git)
+
+3. Abrir el Proyecto en Visual Studio Code
+Navega a la carpeta del proyecto e ábrela en tu editor:
+
+Bash
+cd disney-app
+code .
+
+4. Instalar Dependencias
+Una vez dentro de Visual Studio Code, abre la terminal integrada (Ctrl + Shift + ~ o `Ctrl + ~`) y ejecuta el comando para instalar las dependencias mediante npm:
+
+Bash
+npm install
+
+5. Ejecutar el Servidor de Desarrollo
+Para poner en marcha la aplicación en modo de desarrollo local (normalmente en http://localhost:5173 si usas Vite, o http://localhost:3000 con React Scripts), ejecuta:
+
+Bash
+npm run dev
