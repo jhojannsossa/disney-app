@@ -74,10 +74,10 @@ disney-app/
 
 ## 📫 Perfiles Profesionales y Contacto
 
-Puedes conectar conmigo o revisar más sobre mi trabajo a través de los siguientes enlaces:
+Puedes conectar conmigo o revisar más sobre mi trabajo a través de los siguientes enlaces oficiales:
 
-* **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-JhojannSossa-181717?style=for-the-badge&logo=github)](https://github.com/JhojannSossa)
-* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhojann_Sossa-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhojannsossa)
+[![GitHub](https://img.shields.io/badge/GitHub-JhojannSossa-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhojannsossa)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhojann%20Sossa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhojannsossa)
 
 ## ⚙️ Instalación y Puesta en Marcha
 
@@ -94,21 +94,18 @@ Abre tu terminal (o la terminal integrada de Visual Studio Code) y ejecuta el si
 ```bash
 git clone [https://github.com/JhojannSossa/disney-app.git](https://github.com/JhojannSossa/disney-app.git)
 
-3. Abrir el Proyecto en Visual Studio Code
-Navega a la carpeta del proyecto e ábrela en tu editor:
+### 3. Abrir el Proyecto en Visual Studio Code
+Navega a la carpeta del proyecto e ábrela en tu editor ejecutando:
 
-Bash
 cd disney-app
 code .
 
-4. Instalar Dependencias
-Una vez dentro de Visual Studio Code, abre la terminal integrada (Ctrl + Shift + ~ o `Ctrl + ~`) y ejecuta el comando para instalar las dependencias mediante npm:
+### 4. Instalar Dependencias
+Una vez dentro de Visual Studio Code, abre la terminal integrada y ejecuta el comando para instalar las dependencias mediante npm:
 
-Bash
 npm install
 
-5. Ejecutar el Servidor de Desarrollo
-Para poner en marcha la aplicación en modo de desarrollo local (normalmente en http://localhost:5173 si usas Vite, o http://localhost:3000 con React Scripts), ejecuta:
+### 5. Ejecutar el Servidor de Desarrollo
+Para poner en marcha la aplicación en modo de desarrollo local (con Vite), ejecuta:
 
-Bash
 npm run dev
