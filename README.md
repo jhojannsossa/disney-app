@@ -100,7 +100,7 @@ Puedes explorar la aplicación en producción o revisar el código fuente del re
 
 <p align="left">
   <!-- Enlace a GitHub Pages / Repositorio -->
-  <a href="https://jhojannsossa.github.io/disney-app/" target="_blank">
+  <a href="https://github.com/jhojannsossa/disney-app" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Pages-App%20Live-%2323121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
   </a>
 
