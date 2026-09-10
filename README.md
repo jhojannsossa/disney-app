@@ -72,13 +72,6 @@ disney-app/
 ├── tailwind.config.js
 └── README.md
 
-## 📬 Perfiles Profesionales y Contacto
-
-Puedes conectar conmigo o revisar más sobre mi trabajo a través de los siguientes enlaces oficiales:
-
-[![GitHub](https://img.shields.io/badge/GitHub-JhojannSossa-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhojannsossa)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhojann%20Sossa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhojannsossa)
-
 ## ⚙️ Instalación y Puesta en Marcha
 
 Sigue estos pasos en tu terminal dentro de Visual Studio Code para clonar, configurar y ejecutar el proyecto en tu entorno local:
@@ -116,17 +109,4 @@ npm run dev
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   </a>
 
-</p>
-
-## 📬 Perfil Profesional y Contacto
-
-Desarrollado por **Jhojann Sossa**. Pasión por el desarrollo web frontend y la creación de experiencias de usuario interactivas.
-
-<p align="left">
-  <a href="https://github.com/jhojannsossa" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jhojann-sossa-009b25121/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </p>
