@@ -69,33 +69,6 @@ npm install
 
 npm run dev
 
----
-
-## 📂 Estructura y Carpeteo del Proyecto
-
-disney-app/
-├── public/
-│   ├── favicon.ico
-│   └── assets/
-│       ├── imagen redmi.jpg
-│       └── pagina disney.jpg
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── CharacterCard.jsx
-│   │   └── Footer.jsx
-│   ├── pages/
-│   │   ├── CharactersPage.jsx
-│   │   └── AboutMePage.jsx
-│   ├── services/
-│   │   └── api.js
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── .gitignore
-├── package.json
-├── tailwind.config.js
-└── README.md
 
 ---
 
@@ -133,3 +106,32 @@ Puedes explorar la aplicación en producción o revisar el código fuente del re
     <img src="https://img.shields.io/badge/Vercel-Deployment-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </a>
 </p>
+
+---
+
+## 📂 Estructura y Carpeteo del Proyecto
+
+```tex
+disney-app/
+├── public/
+│   ├── favicon.ico
+│   └── assets/
+│       ├── imagen redmi.jpg
+│       └── pagina disney.jpg
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── CharacterCard.jsx
+│   │   └── Footer.jsx
+│   ├── pages/
+│   │   ├── CharactersPage.jsx
+│   │   └── AboutMePage.jsx
+│   ├── services/
+│   │   └── api.js
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── package.json
+├── tailwind.config.js
+└── README.md
