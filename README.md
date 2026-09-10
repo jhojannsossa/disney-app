@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JhojannSossa/disney-app/main/src/assets/imagen%20redmi.jpg" alt="Disney App Preview" width="100%"/>
+  <img src="public/imagen redmi.jpg" alt="Disney App Preview" width="100%"/>
 
   <h1>✨ 🔮 Galería Disney Animada 🔮 ✨</h1>
 </div>
@@ -71,3 +71,10 @@ disney-app/
 ├── package.json
 ├── tailwind.config.js
 └── README.md
+
+## 📫 Perfiles Profesionales y Contacto
+
+Puedes conectar conmigo o revisar más sobre mi trabajo a través de los siguientes enlaces:
+
+* **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-JhojannSossa-181717?style=for-the-badge&logo=github)](https://github.com/JhojannSossa)
+* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhojann_Sossa-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhojannsossa)
