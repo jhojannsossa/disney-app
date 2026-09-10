@@ -44,10 +44,35 @@ Una sección personal y profesional dedicada a presentar mi perfil como **desarr
 | **Visual Studio Code** | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Entorno de desarrollo integrado (IDE) principal. |
 
 ---
+## ⚙️ Instalación y Puesta en Marcha
+
+> ¿Listo para explorar la magia de Disney? Sigue estos pasos para clonar y levantar el entorno de desarrollo local en tu máquina en cuestión de segundos.
+
+### Prerrequisitos del Entorno
+
+Asegúrate de contar con las herramientas básicas en tu terminal:
+
+* **Node.js** (Versión 18 o superior recomendada)
+* **Git** para la gestión y control de versiones de código.
+
+### Pasos de Despliegue Local
+
+1. **Clonar el repositorio:**
+
+git clone [https://github.com/JhojannSossa/disney-app.git](https://github.com/JhojannSossa/disney-app.git)
+
+2. **Cejecuta en la terminal de VSC:**
+
+cd disney-app
+
+npm install
+
+npm run dev
+
+---
 
 ## 📂 Estructura y Carpeteo del Proyecto
 
-```text
 disney-app/
 ├── public/
 │   ├── favicon.ico
@@ -72,41 +97,39 @@ disney-app/
 ├── tailwind.config.js
 └── README.md
 
-## ⚙️ Instalación y Puesta en Marcha
+---
 
-Sigue estos pasos en tu terminal dentro de Visual Studio Code para clonar, configurar y ejecutar el proyecto en tu entorno local:
+## 🌐 Perfil Profesional y Contacto
 
-1. **Clonar el repositorio desde GitHub:**
-   ```bash
-   git clone [https://github.com/JhojannSossa/disney-app.git](https://github.com/JhojannSossa/disney-app.git)
-
-2. **Entrar a la carpeta del proyecto:**
-
-cd disney-app
-
-3. **Abrir el proyecto en Visual Studio Code:**
-
-code .
-
-4. **Instalar las dependencias necesarias:**
-
-npm install
-
-5. **Iniciar el servidor de desarrollo (Vite):**
-
-npm run dev
-
-## 🌐 Enlaces del Proyecto y Perfil Profesional
+¡Hola! Soy **Jhojann Sossa**, desarrollador frontend especializado en crear experiencias web interactivas y dinámicas. Conéctate conmigo o revisa mis otros proyectos a través de los siguientes canales:
 
 <p align="left">
-  <!-- Enlace a GitHub del Proyecto -->
-  <a href="https://jhojannsossa.github.io/disney-app/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
+  <!-- Enlace a GitHub -->
+  <a href="https://github.com/jhojannsossa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
-  <!-- Enlace a Vercel -->
-  <a href="https://disney-app-git-main-jhojann.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <!-- Enlace a LinkedIn (reemplaza el '#' con tu enlace de LinkedIn si lo deseas) -->
+  <a href="https://www.linkedin.com/in/jhojann-sossa-009b25121/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+
+---
+
+## 🔗 Enlaces del Proyecto
+
+Puedes explorar la aplicación en producción o revisar el código fuente del repositorio a través de los siguientes accesos directos:
+
+<p align="left">
+  <!-- Enlace a GitHub Pages / Repositorio -->
+  <a href="https://jhojannsossa.github.io/disney-app/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-App%20Live-%2323121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
   </a>
 
+  <!-- Enlace a Vercel -->
+  <a href="https://disney-app-eta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-Deployment-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </a>
 </p>
