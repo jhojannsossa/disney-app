@@ -2,8 +2,8 @@ import { useEffect, useState } from "react";
 
 import { getCharacters } from "../services/disneyService";
 
-import CharacterCard from "../components/CharacterCard";
-import Loading from "../components/Loading";
+import CharacterCard  from "../components/CharacterCard";
+import  Loading  from "../components/Loading";
 
 function Home() {
   const [characters, setCharacters] = useState([]);
