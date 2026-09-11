@@ -22,7 +22,8 @@ Te damos la bienvenida a **Disney App**, una plataforma interactiva y moderna in
 
 ## 📱 Páginas de la Aplicación
 
-![Página 1 de la Aplicación](./public/assets/page1.png)
+
+ <img src="src/assets/page1.png" alt="pagina 1 de la aplicacion" width="100%"/>
 
 ### 1. 👥 Página de Personajes Disney
 Basada en la interfaz principal mostrada en la aplicación, esta sección incluye un listado completo en formato de tarjetas con los personajes de Disney (como *Achilles*, *Abigail the Cow*, *.GIFfany*, *Ahadi*, entre otros), mostrando sus respectivos identificadores únicos (**ID**) y avatares detallados extraídos directamente del catálogo oficial.
@@ -80,12 +81,12 @@ npm run dev
 ¡Hola! Soy **Jhojann Sossa**, desarrollador frontend especializado en crear experiencias web interactivas y dinámicas. Conéctate conmigo o revisa mis otros proyectos a través de los siguientes canales:
 
 <p align="left">
-  <!-- Enlace a GitHub -->
+  
   <a href="https://github.com/jhojannsossa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
-  <!-- Enlace a LinkedIn (reemplaza el '#' con tu enlace de LinkedIn si lo deseas) -->
+  
   <a href="https://www.linkedin.com/in/jhojann-sossa-009b25121/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -99,12 +100,12 @@ npm run dev
 Puedes explorar la aplicación en producción o revisar el código fuente del repositorio a través de los siguientes accesos directos:
 
 <p align="left">
-  <!-- Enlace a Vercel (Deploy) -->
+  
   <a href="https://disney-app-eta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </a>
 
-  <!-- Enlace a GitHub Pages / Repositorio -->
+  
   <a href="https://github.com/jhojannsossa/disney-app" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
   </a>
